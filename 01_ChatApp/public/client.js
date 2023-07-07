@@ -2,7 +2,7 @@ const socket = io();
 
 var name;
 do {
-    name = prompt("Enter username")
+    name = prompt("Enter Username")
     
 } while (!name);
 
